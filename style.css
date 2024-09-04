@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: hsl(41, 100%, 72%);
+    text-align: center;
+    font-size: 25px;
+}
+
+body{
+    background-color: #f0be52;
+}
+
+.imagens1 img{
+    width: 600px;
+    height: 600px;
+    border: solid 5px hsl(41, 100%, 72%);
+    margin-left: 25px;
+    margin-top: 20px;
+   
+}
+
+.imagens{
+    position: relative;
+    margin: 10px;
+}
